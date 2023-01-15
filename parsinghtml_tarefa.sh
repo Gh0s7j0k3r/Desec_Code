@@ -14,4 +14,3 @@ else
     do
     host $url | grep "has address";
     done
-fi
